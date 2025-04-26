@@ -1,5 +1,5 @@
-## 안녕하세요 ! 저는 이재영입니다. 👋
-### 풀스택 웹개발과 블록체인 개발을 하고 있습니다.
+##### 안녕하세요 ! 저는 이재영입니다. 👋
+##### 풀스택 웹개발과 블록체인 개발을 하고 있습니다.
 <!--
 **zam0ng/zam0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

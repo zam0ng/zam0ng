@@ -19,11 +19,13 @@
 
 <table>
   <tr>
-    <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
-      <img src="./bounce.png" width="300" height="150"><br><br>
-      <strong>프로젝트 제목</strong><br>
-      부연 설명입니다.<br>
-      <em>Stacks: React, Node.js</em>
+    <td align="left" style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
+      <img src="./sto_banner.png" width="300" height="200"><br>
+      <strong>🏠 부동산 STO</strong><br>
+      <code style="background:#00FFFF; color:#000; padding:4px 8px; border-radius:6px;">React</code>
+      <code style="background:#00FF7F; color:#000; padding:4px 8px; border-radius:6px;">NodeJs</code>
+      <code style="background:#FFD700; color:#000; padding:4px 8px; border-radius:6px;">TypeScript</code>
+      <code style="background:#DA70D6; color:#000; padding:4px 8px; border-radius:6px;">Solidity</code><br>
     </td>
     <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
       <img src="https://via.placeholder.com/200x120.png" width="200"><br><br>

@@ -1,4 +1,4 @@
-#### 안녕하세요 ! 저는 이재영입니다. 👋
+#### 안녕하세요 ! 저는 이재영입니다. :D
 풀스택 웹개발과 블록체인 개발을 하고 있습니다.
 <br><br>
 
@@ -17,33 +17,23 @@
 
 📁 My Project
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+<table>
+  <tr>
+    <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
+      <img src="https://via.placeholder.com/200x120.png" width="200"><br><br>
+      <strong>프로젝트 제목</strong><br>
+      부연 설명입니다.<br>
+      <em>Stacks: React, Node.js</em>
+    </td>
+    <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
+      <img src="https://via.placeholder.com/200x120.png" width="200"><br><br>
+      <strong>또 다른 프로젝트</strong><br>
+      부연 설명입니다.<br>
+      <em>Stacks: Next.js, PostgreSQL</em>
+    </td>
+  </tr>
+</table>
 
-  <div style="width:250px; border:1px solid #ccc; border-radius:10px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://via.placeholder.com/250x150" alt="Project Image" style="width:100%; height:auto;">
-    <div style="padding:15px; text-align:center;">
-      <h3 style="margin:10px 0;">프로젝트 제목</h3>
-      <p style="font-size:14px; color:#666;">부연 설명을 여기에 작성하세요.</p>
-      <p style="font-size:14px; margin-top:10px;">
-        <strong>Stacks:</strong> React, Node.js, MySQL
-      </p>
-    </div>
-  </div>
-
-  <div style="width:250px; border:1px solid #ccc; border-radius:10px; overflow:hidden; box-shadow:0 2px 5px rgba(0,0,0,0.1);">
-    <img src="https://via.placeholder.com/250x150" alt="Project Image" style="width:100%; height:auto;">
-    <div style="padding:15px; text-align:center;">
-      <h3 style="margin:10px 0;">또 다른 프로젝트</h3>
-      <p style="font-size:14px; color:#666;">간단한 설명 추가.</p>
-      <p style="font-size:14px; margin-top:10px;">
-        <strong>Stacks:</strong> Next.js, Express, PostgreSQL
-      </p>
-    </div>
-  </div>
-
-  <!-- 카드 더 추가 가능 -->
-  
-</div>
 
 <!--
 **zam0ng/zam0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

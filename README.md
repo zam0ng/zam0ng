@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
-      <img src="https://via.placeholder.com/200x120.png" width="200"><br><br>
+      <img src="./bounce.png" width="300" height="150"><br><br>
       <strong>프로젝트 제목</strong><br>
       부연 설명입니다.<br>
       <em>Stacks: React, Node.js</em>

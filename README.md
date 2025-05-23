@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="left" style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
-      <a href="https://github.com/zam0ng/Real_estate_STO_project" style="text-decoration:none; color:inherit;">
+      <a href="https://github.com/zam0ng/Real_estate_STO_project" target="_blank" style="text-decoration:none; color:inherit;">
       <img src="./sto_banner.png" width="300" height="200"><br>
       </a>
       <strong>🏠 부동산 STO </strong><br>
@@ -31,7 +31,7 @@
       <code style="background:#DA70D6; color:#000; padding:4px 8px; border-radius:6px;">Solidity</code><br>
     </td>
     <td align="left" style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
-      <a href="https://github.com/zam0ng/React_Project_NoBroker" style="text-decoration:none; color:inherit;">
+      <a href="https://github.com/zam0ng/React_Project_NoBroker" target="_blank" style="text-decoration:none; color:inherit;">
       <img src="./nobroker.png" width="300" height="200"><br>
       </a>
       <strong>Nobroker</strong><br>

@@ -41,6 +41,17 @@
       <code style="background:#00FF7F; color:#000; padding:4px 8px; border-radius:6px;">ReactQuery</code>
       <code style="background:#00FF7F; color:#000; padding:4px 8px; border-radius:6px;">Mysql</code>
     </td>
+    <td align="left" style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
+      <a href="https://github.com/zam0ng/React_Project_NoBroker" target="_blank" style="text-decoration:none; color:inherit;">
+      <img src="./nobroker.png" width="300" height="200"><br>
+      </a>
+      <strong>Nobroker</strong><br>
+      <span>부동산 매매 플랫폼</span><br>
+      <code style="background:#00FFFF; color:#000; padding:4px 8px; border-radius:6px;">React</code>
+      <code style="background:#00FF7F; color:#000; padding:4px 8px; border-radius:6px;">NodeJs</code>
+      <code style="background:#00FF7F; color:#000; padding:4px 8px; border-radius:6px;">ReactQuery</code>
+      <code style="background:#00FF7F; color:#000; padding:4px 8px; border-radius:6px;">Mysql</code>
+    </td>
   </tr>
 </table>
 

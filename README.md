@@ -12,7 +12,7 @@
 
 📫 Contact
 - Blog : [velog](https://velog.io/@ijy1995/posts)
-- Portfolio : [Lee Jae Yeong](https://zam0ng.github.io/portfolio/)
+- Portfolio : [Lee Jae Yeong](https://zam0ng.github.io/portfolio/) <- 포트폴리오 에서 아래 프로젝트들의 자세한 내용을 확인할 수 있습니다.
 <br><br>
 
 📁 My Project
